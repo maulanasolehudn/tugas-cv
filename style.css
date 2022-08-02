@@ -1,0 +1,32 @@
+h2{
+  color: rgb(75, 70, 70);
+  background-color: rgb(133, 122, 122));
+  padding: 3px;
+  }
+  .menu {
+  text-align: center;
+  font-size:18px;
+  padding-top: 16pt;
+  }
+  h1 {
+  color: rgb(58, 52, 52);
+  } 
+ 
+  footer {
+    color: rgb(58, 52, 52);
+  }
+  #bang {
+    background-color: blue;
+    color: white;
+    padding: 3px;
+  }
+  #bung {
+    background-color: black;
+    color: white;
+    padding: 3px;
+  }
+  #bing {
+    background-color: green;
+    color: white;
+    padding: 3px;
+  }
